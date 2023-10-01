@@ -1040,7 +1040,10 @@ class _CalendarScreenState extends State<CalendarScreen> {
               },
             ),
             TextButton(
-              child: Text('Excluir'),
+              child: Text(
+                'Excluir',
+                style: TextStyle(color: Colors.red),
+              ),
               onPressed: () {
                 setState(() {
                   final selectedDateKey =
