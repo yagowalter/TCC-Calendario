@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding="utf-8"?>
+<resources>
+    <string name="app_name">HemoCare</string>
+    <string name="facebook_app_id">6444674598991481</string>
+    <string name="fb_login_protocol_scheme">fb6444674598991481</string>
+    <string name="facebook_client_token">db219f797900062feab7142b7f2a1b99</string>
+</resources>
